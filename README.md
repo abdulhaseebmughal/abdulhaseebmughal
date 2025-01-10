@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/abdul-haseeb-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-haseeb-developer" height="30" width="40" /></a>
 <a href="https://instagram.com/haseebmughal2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haseebmughal2006" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/abdulhaseebmugh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="areeb fawad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
