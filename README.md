@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/wcBHnKI.png)](https://haseebcodes-eight.vercel.app/)
+[![MasterHead](https://res.cloudinary.com/dz66ywylb/image/upload/v1759191163/Black_Purple_Modern_Website_Design_And_Development_Banner_unxpjf.png)](https://haseebcodes-eight.vercel.app/)
 <h1 align="center">Hi 👋, I'm Haseeb – Developer, Creator, Innovator</h1>
 <h3 align="center">A Dedicated Full Stack Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif">
