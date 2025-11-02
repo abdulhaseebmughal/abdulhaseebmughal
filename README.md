@@ -205,13 +205,13 @@ Intensive full-stack internship gaining hands-on experience in React.js, Next.js
 
 | Certification | Issuer | Year | Credential |
 |:-------------|:-------|:-----|:-----------|
-| 🏆 **Keyword Research Essentials** | Semrush | 2025 | [View Certificate](https://www.semrush.com/academy/certificates) |
-| 🏆 **Front End Development Libraries** | freeCodeCamp | 2025 | [View Certificate](https://www.freecodecamp.org/certification/abdul-haseeb-mughal-fedl) |
-| 🏆 **Career Essentials in GitHub** | Microsoft & LinkedIn | 2025 | [View Certificate](https://www.linkedin.com/learning/certificates) |
-| 🏆 **Career Essentials in Generative AI** | Microsoft & LinkedIn | 2025 | [View Certificate](https://www.linkedin.com/learning/certificates) |
-| 🏆 **Career Essentials in Software Development** | Microsoft & LinkedIn | 2025 | [View Certificate](https://www.linkedin.com/learning/certificates) |
-| 🎓 **HTML & CSS Certification** | Saylani Mass I.T Training | 2024 | Certified |
-| 🎓 **Firebase Development** | Saylani Mass I.T Training | 2024 | Certified |
+| 🏆 **Keyword Research Essentials** | Semrush | 2025 | [View on LinkedIn](https://linkedin.com/in/abdul-haseeb-developer) |
+| 🏆 **Front End Development Libraries** | freeCodeCamp | 2025 | [View on LinkedIn](https://linkedin.com/in/abdul-haseeb-developer) |
+| 🏆 **Career Essentials in GitHub** | Microsoft & LinkedIn | 2025 | [View on LinkedIn](https://linkedin.com/in/abdul-haseeb-developer) |
+| 🏆 **Career Essentials in Generative AI** | Microsoft & LinkedIn | 2025 | [View on LinkedIn](https://linkedin.com/in/abdul-haseeb-developer) |
+| 🏆 **Career Essentials in Software Development** | Microsoft & LinkedIn | 2025 | [View on LinkedIn](https://linkedin.com/in/abdul-haseeb-developer) |
+| 🎓 **HTML & CSS Certification** | Saylani Mass I.T Training | 2024 | [View on LinkedIn](https://linkedin.com/in/abdul-haseeb-developer) |
+| 🎓 **Firebase Development** | Saylani Mass I.T Training | 2024 | [View on LinkedIn](https://linkedin.com/in/abdul-haseeb-developer) |
 
 <img src="https://img.shields.io/badge/Total_Certifications-15%2B-success?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 
@@ -352,29 +352,44 @@ Intensive full-stack internship gaining hands-on experience in React.js, Next.js
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Abdul Haseeb))
-    Web Development
-      Frontend Development
-      Backend Development
-      Full Stack Solutions
-      E-commerce Platforms
-    SEO Services
-      Technical SEO
-      Keyword Research
-      On-Page Optimization
-      SEO Audits
-    Design
-      UI/UX Design
-      Figma Prototyping
-      Responsive Design
-      Brand Identity
-    Digital Marketing
-      Social Media Marketing
-      Content Strategy
-      Performance Optimization
-```
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/>
+      <br><b>Web Development</b>
+      <br><sub>Frontend Development</sub>
+      <br><sub>Backend Development</sub>
+      <br><sub>Full Stack Solutions</sub>
+      <br><sub>E-commerce Platforms</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/google-web-search.png" width="60"/>
+      <br><b>SEO Services</b>
+      <br><sub>Technical SEO</sub>
+      <br><sub>Keyword Research</sub>
+      <br><sub>On-Page Optimization</sub>
+      <br><sub>SEO Audits</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/design.png" width="60"/>
+      <br><b>Design</b>
+      <br><sub>UI/UX Design</sub>
+      <br><sub>Figma Prototyping</sub>
+      <br><sub>Responsive Design</sub>
+      <br><sub>Brand Identity</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/online-advertising.png" width="60"/>
+      <br><b>Digital Marketing</b>
+      <br><sub>Social Media Marketing</sub>
+      <br><sub>Content Strategy</sub>
+      <br><sub>Performance Optimization</sub>
+      <br><sub>Analytics & Reporting</sub>
+    </td>
+  </tr>
+</table>
+
+[![Hire Me](https://img.shields.io/badge/💼_Available_for_Freelance_Projects-success?style=for-the-badge&logo=upwork&logoColor=white)](https://linkedin.com/in/abdul-haseeb-developer)
 
 </div>
 
