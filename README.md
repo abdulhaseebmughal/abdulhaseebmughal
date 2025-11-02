@@ -12,28 +12,28 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-2%2B_Years-success?style=for-the-badge&logo=clockify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Companies-4%2B_Organizations-blue?style=for-the-badge&logo=building&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Companies-5%2B_Organizations-blue?style=for-the-badge&logo=building&logoColor=white"/>
   <img src="https://img.shields.io/badge/Projects-50%2B_Delivered-orange?style=for-the-badge&logo=rocket&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clients-100%2B_Satisfied-green?style=for-the-badge&logo=handshake&logoColor=white"/>
 </p>
 
 <p align="center">
-  <a href="https://haseebcodes-eight.vercel.app/">
+  <a href="https://haseebcodes-eight.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
   </a>
-  <a href="mailto:abdulhaseebmughal2006@gmail.com">
+  <a href="mailto:abdulhaseebmughal2006@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/abdul-haseeb-developer">
+  <a href="https://linkedin.com/in/abdul-haseeb-developer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/haseebmughal2006">
+  <a href="https://instagram.com/haseebmughal2006" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://wa.me/923331355286">
+  <a href="https://wa.me/923331355286" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/abdulhaseebmugh1">
+  <a href="https://www.hackerrank.com/profile/abdulhaseebmugh1" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
@@ -79,9 +79,9 @@ const abdulHaseeb = {
     achievements: {
         projectsDelivered: "50+",
         clientsSatisfied: "100+",
-        companiesWorked: "4+",
+        companiesWorked: "5+",
         certifications: "15+",
-        profileViews: "51 in last 7 days",
+        recommendations: "6+",
         connections: "500+"
     },
     
@@ -103,25 +103,25 @@ const abdulHaseeb = {
 #### **Full Stack Developer** @ [Sysovo](https://sysovo.com)
 `Oct 2025 - Present` | `Karachi, Pakistan` | `On-site`
 
-Building responsive websites, custom software, and e-commerce platforms using the MERN stack. Working on both frontend and backend to ensure performance, scalability, and exceptional user experience. Integrating SEO strategies and brand identity into every project.
+Building responsive websites, custom software, and e-commerce platforms using the MERN stack. Working on both frontend and backend to ensure performance, scalability, and exceptional user experience. Integrating SEO strategies and brand identity into every project, helping clients grow online and achieve measurable results.
 
 **Tech Stack:** MERN Stack, SEO, Digital Marketing, E-commerce Solutions
 
 ---
 
-#### **Full Stack Developer** @ [Hawk Horizon](https://hawkhorizon.com)
+#### **Full Stack Developer** @ Hawk Horizon
 `Oct 2025 - Present` | `Karachi, Pakistan` | `On-site`
 
-Developing responsive web applications with focus on performance and scalability. Collaborating with designers and marketers to create SEO-optimized websites, e-commerce platforms, and AI-powered features.
+Developing responsive web applications with focus on performance and scalability. Collaborating with designers and marketers to create SEO-optimized websites, e-commerce platforms, and AI-powered features that enhance site visibility and improve conversions.
 
 **Tech Stack:** MERN Stack, AI Features, SEO Optimization, E-commerce
 
 ---
 
-#### **Web Developer & SEO Specialist** @ Webixus
+#### **Web Developer & SEO Specialist** @ [Webixus](https://webixus.com)
 `Oct 2025 - Present` | `Pakistan` | `Self-employed`
 
-Building modern, responsive websites and web applications while optimizing them for search engines. Creating scalable, high-performance platforms that enhance user experience, boost visibility, and drive measurable results.
+Building modern, responsive websites and web applications while optimizing them for search engines. Creating scalable, high-performance platforms that enhance user experience, boost visibility, and drive measurable results for businesses worldwide.
 
 **Tech Stack:** Web Development, SEO, Digital Solutions, Performance Optimization
 
@@ -131,21 +131,25 @@ Building modern, responsive websites and web applications while optimizing them 
 <summary><b>📚 Previous Experience (Click to expand)</b></summary>
 <br>
 
-#### **Full Stack Web Developer & SEO Associate** @ ScandicTech AB
+#### **Full Stack Web Developer & SEO Associate** @ [ScandicTech AB](https://scandictech.se)
 `Jan 2025 - Oct 2025` | `Copenhagen, Denmark` | `Remote`
 
-Leveraged skills in CMS platforms, JavaScript, React, Node.js, and MongoDB to develop dynamic web applications. Conducted SEO audits, keyword research, and strategy implementation to improve organic search rankings.
+Leveraged skills in CMS platforms, JavaScript, React, Node.js, and MongoDB to develop dynamic web applications. Conducted SEO audits, keyword research, and strategy implementation to improve organic search rankings for Danish clients.
 
 **Tech Stack:** React, Node.js, MongoDB, CMS Platforms, SEO Strategy
+
+**Featured Project:** [ScandicTech Website](https://scandictech.se)
 
 ---
 
 #### **Full Stack Developer Intern** @ Zerovertical Labs
 `Jun 2025 - Jul 2025` | `Karachi, Pakistan` | `On-site`
 
-Intensive full-stack internship gaining hands-on experience in React.js, Next.js, Node.js, and Supabase. Built real-world web apps with Tailwind CSS, WordPress, and Shopify.
+Intensive full-stack internship gaining hands-on experience in React.js, Next.js, Node.js, and Supabase. Built real-world web apps with Tailwind CSS, WordPress, and Shopify, sharpening both frontend and backend development skills.
 
 **Tech Stack:** React.js, Next.js, Node.js, Supabase, Tailwind CSS, WordPress, Shopify
+
+**Featured Project:** [Free QR Code Generator](https://qr-gen.com/en/)
 
 </details>
 
@@ -201,11 +205,11 @@ Intensive full-stack internship gaining hands-on experience in React.js, Next.js
 
 | Certification | Issuer | Year | Credential |
 |:-------------|:-------|:-----|:-----------|
-| 🏆 **Keyword Research Essentials** | Semrush | 2025 | [View Certificate](https://www.semrush.com) |
+| 🏆 **Keyword Research Essentials** | Semrush | 2025 | [View Certificate](https://www.semrush.com/academy/certificates) |
 | 🏆 **Front End Development Libraries** | freeCodeCamp | 2025 | [View Certificate](https://www.freecodecamp.org/certification/abdul-haseeb-mughal-fedl) |
-| 🏆 **Career Essentials in GitHub** | Microsoft & LinkedIn | 2025 | [View Certificate](https://linkedin.com) |
-| 🏆 **Career Essentials in Generative AI** | Microsoft & LinkedIn | 2025 | [View Certificate](https://linkedin.com) |
-| 🏆 **Career Essentials in Software Development** | Microsoft & LinkedIn | 2025 | [View Certificate](https://linkedin.com) |
+| 🏆 **Career Essentials in GitHub** | Microsoft & LinkedIn | 2025 | [View Certificate](https://www.linkedin.com/learning/certificates) |
+| 🏆 **Career Essentials in Generative AI** | Microsoft & LinkedIn | 2025 | [View Certificate](https://www.linkedin.com/learning/certificates) |
+| 🏆 **Career Essentials in Software Development** | Microsoft & LinkedIn | 2025 | [View Certificate](https://www.linkedin.com/learning/certificates) |
 | 🎓 **HTML & CSS Certification** | Saylani Mass I.T Training | 2024 | Certified |
 | 🎓 **Firebase Development** | Saylani Mass I.T Training | 2024 | Certified |
 
@@ -215,7 +219,7 @@ Intensive full-stack internship gaining hands-on experience in React.js, Next.js
 
 <br>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects & Highlights
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects & Portfolio
 
 <div align="center">
 
@@ -223,27 +227,52 @@ Intensive full-stack internship gaining hands-on experience in React.js, Next.js
   <tr>
     <td align="center" width="33%">
       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="120">
-      <br><b>AI Study Assistant</b>
+      <br><b>🤖 AI Study Assistant</b>
       <br><sub>Built during Hacktoberfest with DigitalOcean</sub>
-      <br><sub>Summarizes papers, creates quizzes & flashcards</sub>
-      <br><a href="https://your-project-link.com">View Project</a>
+      <br><sub>Summarizes papers, creates quizzes & flashcards using AI</sub>
+      <br><a href="https://webixus-ai-study-assistant.vercel.app/" target="_blank">🔗 View Live Project</a>
     </td>
     <td align="center" width="33%">
       <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="120">
-      <br><b>Free QR Code Generator</b>
+      <br><b>📱 QR Code Generator</b>
       <br><sub>Zero Vertical Labs Project</sub>
-      <br><sub>Custom QR codes with design options</sub>
-      <br><a href="https://qr-generator-link.com">View Project</a>
+      <br><sub>Free custom QR codes with design options</sub>
+      <br><a href="https://qr-gen.com/en/" target="_blank">🔗 View Live Project</a>
     </td>
     <td align="center" width="33%">
       <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="120">
-      <br><b>E-commerce Solutions</b>
-      <br><sub>Built for Multiple Clients</sub>
-      <br><sub>Shopify & Custom Platforms</sub>
-      <br><a href="https://haseebcodes-eight.vercel.app">View Portfolio</a>
+      <br><b>🌐 ScandicTech Website</b>
+      <br><sub>Full Stack Web Application</sub>
+      <br><sub>Corporate website with CMS integration</sub>
+      <br><a href="https://scandictech.se/" target="_blank">🔗 View Live Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="120">
+      <br><b>🎓 Kore Skole i Brønshøj</b>
+      <br><sub>Educational Website Platform</sub>
+      <br><sub>Modern school website with responsive design</sub>
+      <br><a href="https://koreskoleibronshoj.dk/" target="_blank">🔗 View Live Project</a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="120">
+      <br><b>✍️ Pros Writing Services</b>
+      <br><sub>Professional Services Website</sub>
+      <br><sub>SEO-optimized writing service platform</sub>
+      <br><a href="https://proswritingservices.com/" target="_blank">🔗 View Live Project</a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="120">
+      <br><b>💼 Webixus Portfolio</b>
+      <br><sub>Digital Agency Website</sub>
+      <br><sub>Complete digital solutions showcase</sub>
+      <br><a href="https://webixus.com/" target="_blank">🔗 View Live Project</a>
     </td>
   </tr>
 </table>
+
+[![View Complete Portfolio](https://img.shields.io/badge/🌟_View_Complete_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://haseebcodes-eight.vercel.app/)
 
 </div>
 
@@ -357,7 +386,7 @@ mindmap
 
 | Institution | Degree | Duration | Grade |
 |:-----------|:-------|:---------|:------|
-| **Virtual University of Pakistan** | Bachelor's in Computer Science | 2025 - Present | Ongoing |
+| **[Virtual University of Pakistan](https://www.vu.edu.pk/)** | Bachelor's in Computer Science | 2025 - Present | Ongoing |
 | **College For Advanced Studies (CAS)** | Intermediate in Computer Science | 2022 - 2024 | A+ |
 
 </div>
@@ -376,15 +405,68 @@ mindmap
 
 <br>
 
-### 🌟 Testimonials
+### 🌟 Professional Testimonials
 
 <div align="center">
 
-> **"I would highly recommend Abdul Haseeb to anyone looking for a reliable, skilled, and motivated individual. They would be a valuable asset to any organization."**  
-> **— Abdul Rehman Bhatti**, Full Stack Developer
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> **"Haseeb is not only skilled in the MERN stack but also brings great focus and calmness to the team. His positive attitude and willingness to help others makes working with him collaborative and smooth."**  
-> **— Mirza Abdullah Baig**, Full Stack Developer at Zero Vertical Lab
+#### 💼 **Abdul Rehman Bhatti**
+*Full Stack Developer*
+
+> "I would highly recommend Abdul Haseeb to anyone looking for a reliable, skilled, and motivated individual. They would be a valuable asset to any organization."
+
+</td>
+<td width="50%" valign="top">
+
+#### 💼 **Mirza Abdullah Baig**
+*Full Stack Developer @ Zero Vertical Lab*
+
+> "Haseeb is not only skilled in the MERN stack but also brings great focus and calmness to the team. His positive attitude and willingness to help others makes working with him collaborative and smooth."
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💼 **Muhammad Faizan Mughal**
+*Co-founder @ Saylani Mass I.T Training*
+
+> "Abdul consistently demonstrated a strong grasp of web technologies, especially within the MERN stack, and showed excellent problem-solving skills. His ability to quickly learn, implement efficient solutions, and maintain high coding standards truly set him apart."
+
+</td>
+<td width="50%" valign="top">
+
+#### 💼 **Saad Kamran**
+*MERN Stack Developer*
+
+> "We personally took his services to build a full-stack web app—and he delivered beyond expectations. His work gave us a strong online presence and significantly boosted our business sales."
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💼 **Muhammad Hadi**
+*Cyber Security & MERN Stack Developer*
+
+> "He's truly reliable and disciplined. He never leaves a task unfinished and always gives his best. He's a self-learner and handled a website and SEO project for me perfectly."
+
+</td>
+<td width="50%" valign="top">
+
+#### 💼 **Muhammad Umair**
+*MERN Stack Developer*
+
+> "From day one, he showed a solid understanding of both frontend and backend technologies. Whether building responsive UIs with React or handling backend logic with Node.js and MongoDB, Abdul consistently delivered clean, efficient code."
+
+</td>
+</tr>
+</table>
+
+[![View All Recommendations](https://img.shields.io/badge/📋_View_All_Recommendations_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-haseeb-developer/details/recommendations/)
 
 </div>
 
@@ -399,5 +481,6 @@ mindmap
 **"Building the future, one commit at a time"** 🚀
 
 [![GitHub Followers](https://img.shields.io/github/followers/abdulhaseebmughal?label=Follow&style=social)](https://github.com/abdulhaseebmughal)
+[![GitHub Profile](https://img.shields.io/badge/Visit_My_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulhaseebmughal)
 
 </div>
