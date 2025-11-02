@@ -352,6 +352,38 @@ Intensive full-stack internship gaining hands-on experience in React.js, Next.js
 
 <div align="center">
 
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#FF6B6B','primaryTextColor':'#fff','primaryBorderColor':'#FF6B6B','lineColor':'#4ECDC4','secondaryColor':'#45B7D1','tertiaryColor':'#FFA07A','background':'#1a1a2e','mainBkg':'#0f3460','secondBkg':'#16213e','textColor':'#ffffff','fontSize':'18px'}}}%%
+mindmap
+  root((Abdul Haseeb<br/>Services))
+    Web Development
+      Frontend Development
+      Backend Development
+      Full Stack Solutions
+      E-commerce Platforms
+    SEO Services
+      Technical SEO
+      Keyword Research
+      On-Page Optimization
+      SEO Audits
+    Design
+      UI/UX Design
+      Figma Prototyping
+      Responsive Design
+      Brand Identity
+    Digital Marketing
+      Social Media Marketing
+      Content Strategy
+      Performance Optimization
+      Analytics
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
 <table>
   <tr>
     <td align="center" width="25%">
