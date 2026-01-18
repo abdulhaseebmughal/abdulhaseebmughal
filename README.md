@@ -377,4 +377,3 @@
 
 [![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-E53E3E?style=for-the-badge&logoColor=white)](https://haseebcodes-eight.vercel.app/)
 [![Professional Email](https://img.shields.io/badge/Professional_Email-E53E3E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulhaseebmughal2006@gmail.com)
-[![LinkedIn Profile](_
