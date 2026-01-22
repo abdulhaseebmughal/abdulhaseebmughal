@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=100&section=header&text=Abdul%20Haseeb&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-# Abdul Haseeb
+
+<!-- Professional Banner -->
+<img src="https://res.cloudinary.com/dz66ywylb/image/upload/v1769110538/Trusted_by_vxfzdt.png" alt="Abdul Haseeb - Full Stack Developer & SEO Specialist" width="100%" style="border-radius: 10px; margin: 20px 0;"/>
+
+# Abdul Haseeb Mughal
 **Senior Full Stack Developer & SEO Specialist**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=1000&color=E53E3E&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+Enterprise-Grade+Web+Solutions;MERN+Stack+Specialist+%7C+3%2B+Years+Experience;50%2B+Projects+Delivered+Worldwide;SEO+Expert+%7C+UI%2FUX+Designer)](https://git.io/typing-svg)
@@ -70,7 +73,7 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+<img src="https://res.cloudinary.com/dz66ywylb/image/upload/v1769110685/Untitled_design_tomsdv.png" width="40" height="40"/>
 <br><strong>Tailwind CSS</strong>
 <br><sub>3+ Years</sub>
 </td>
@@ -225,9 +228,9 @@
 <br><sub>Intermediate</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+<img src="https://res.cloudinary.com/dz66ywylb/image/upload/v1769110813/aws_zw6t7r.png" width="40" height="40"/>
 <br><strong>AWS</strong>
-<br><sub>3+ Years</sub>
+<br><sub>Intermediate</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" width="40" height="40"/>
@@ -377,3 +380,10 @@
 
 [![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-E53E3E?style=for-the-badge&logoColor=white)](https://haseebcodes-eight.vercel.app/)
 [![Professional Email](https://img.shields.io/badge/Professional_Email-E53E3E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulhaseebmughal2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E53E3E?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-haseeb-developer)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-E53E3E?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923331355286)
+
+---
+
+
+</div>
